@@ -12,9 +12,9 @@
         "img":"assets/img/productos/huda-beauty.png"
     },
     {
-        "nombre": "",
-        "precio": "",
-        "descripcion":"",
-        "img":"assets/img/productos/"
+        "nombre": "Labial barra fenty",
+        "precio": "12.000",
+        "descripcion":"Hermoso labial",
+        "img":"assets/img/productos/labial-barra-fenty.png"
     }
 ]

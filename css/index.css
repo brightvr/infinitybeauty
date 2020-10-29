@@ -1,0 +1,123 @@
+/*estilos generales*/
+body{
+    font-family:  Italic_IV25, Italic;
+    font-size: 22px;
+    cursor: pointer;
+
+
+}
+
+.logo{
+    width: 100px;
+}
+
+/*estilos celular*/
+
+.cont-card{
+
+    width: 340px;
+    height: 550px;
+}
+
+.cont-form{
+    width: 90%;
+    margin-left: 4%;
+}
+
+/* ________________estilos card productos para celular*/
+.cls-1, .cls-11, .cls-7 {
+    fill: none;
+  }
+
+  .cls-2 {
+    clip-path: url(#clip-path);
+  }
+
+  .cls-3 {
+    fill: #edcdcd;
+  }
+
+  .cls-4 {
+    fill: #e0acac;
+  }
+
+  .cls-5 {
+    fill: #deaaaa;
+  }
+
+  .cls-6 {
+    fill: #7d5a5a;
+  }
+
+  .cls-11, .cls-16, .cls-17, .cls-7 {
+    stroke: #fff;
+  }
+
+  .cls-11, .cls-12, .cls-13, .cls-14, .cls-16, .cls-17, .cls-7 {
+    stroke-miterlimit: 10;
+  }
+
+  .cls-7 {
+    opacity: 0.87;
+  }
+
+  .cls-8 {
+    opacity: 0.75;
+  }
+
+  .cls-16, .cls-17, .cls-9 {
+    fill: #fff;
+  }
+
+  .cls-10 {
+    fill: #f7ebeb;
+  }
+
+  .cls-11 {
+    stroke-width: 21px;
+  }
+
+  .cls-12 {
+    font-size: 27px;
+  }
+
+  .cls-12, .cls-13, .cls-14 {
+    stroke: #000;
+  }
+
+  .cls-12, .cls-13, .cls-16 {
+    font-family: Italic_IV25, Italic;
+  }
+
+  .cls-13 {
+    font-size: 27px;
+  }
+
+  .cls-15 {
+    fill: #00a035;
+  }
+
+  .cls-16 {
+    font-size: 36px;
+  }
+
+
+  @media(min-width:710px){
+
+
+    .cont-card{
+        width: 400px;
+        height: 600px;
+        margin: 5px;
+    }
+  }
+
+  @media(min-width:810px){
+
+
+    .cont-card{
+        width: 400px;
+        height: 600px;
+        margin: 55px;
+    }
+  }

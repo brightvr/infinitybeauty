@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Crema Humectante",
+        "precio": "8.000",
+        "descripcion":"Crema humectante para el cuerpo, amigable con todo tipo de piel",
+        "img":"assets/img/productos/crema-mini.png"
+    },
+    {
+        "nombre": "Iluminador  huda beauty",
+        "precio": "15.000",
+        "descripcion":"Hermoso iluminador huda beuauty dos tonos",
+        "img":"assets/img/productos/huda-beauty.png"
+    },
+    {
+        "nombre": "",
+        "precio": "",
+        "descripcion":"",
+        "img":"assets/img/productos/"
+    }
+]

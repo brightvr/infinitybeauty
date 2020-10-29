@@ -16,5 +16,53 @@
         "precio": "12.000",
         "descripcion":"Hermoso labial",
         "img":"assets/img/productos/labial-barra-fenty.png"
+    },
+    {
+        "nombre": "Balaca maquilladora",
+        "precio": "11.000",
+        "descripcion":"",
+        "img":"assets/img/productos/balaca.png"
+    },
+    {
+        "nombre": "Beauty blender",
+        "precio": "6.000",
+        "descripcion":"",
+        "img":"assets/img/productos/Beauty-blender.png"
+    },
+    {
+        "nombre": "Delineador mac",
+        "precio": "13.000",
+        "descripcion":"",
+        "img":"assets/img/productos/Delineador-mac.png"
+    },
+    {
+        "nombre": "Labial doble Kylie",
+        "precio": "8.000",
+        "descripcion":"",
+        "img":"assets/img/productos/labial-doble-kylie.png"
+    },
+    {
+        "nombre": "Labial liquido huda",
+        "precio": "13.000",
+        "descripcion":"",
+        "img":"assets/img/productos/labial-liquido.png"
+    },
+    {
+        "nombre": "Labial barra huda",
+        "precio": "9.000",
+        "descripcion":"",
+        "img":"assets/img/productos/loabial-barra-huda.png"
+    },
+    {
+        "nombre": "mascarilla labios",
+        "precio": "4.000",
+        "descripcion":"",
+        "img":"assets/img/productos/macarilla-labios.png"
+    },
+    {
+        "nombre": "Mascarilla puntos negros",
+        "precio": "3.000",
+        "descripcion":"",
+        "img":"assets/img/productos/mascarilla-puntosnegros.png"
     }
 ]

@@ -175,7 +175,7 @@ $(window).on('load',function(){
           <text class="cls-13" id="precio-producto" transform="translate(51.14 588.02)">$ ${data[i].precio} pesos cop</text>
           <rect class="cls-14" x="62.39" y="539.08" width="379.61" height="2.88"/>
         </g>
-        <g id="Boton_comprar" data-name="Boton comprar">
+        <g id="Boton_comprar" class="Boton-comprar" data-name="Boton comprar">
           <rect class="cls-15" x="61.39" y="620.24" width="359.45" height="81.04" rx="10"/>
           <text class="cls-16" transform="translate(161.86 673.36)">Comprar</text>
         </g>
@@ -205,12 +205,25 @@ $(window).on('load',function(){
             
             
             `);
-        }
-    })
+        }//end for
 
-    $('#Boton_comprar').on('click',function(){
+        console.log($('.Boton-comprar').length);
 
-       console.log(this);
-    })
+       
+          $('.Boton-comprar').on('click',function(){
+
+            location.href="redirect.php";
+          })
+    
+    
+
+
+
+
+    
+    });
+
+
+
 
 })

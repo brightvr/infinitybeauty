@@ -30,7 +30,7 @@
         "img":"assets/img/productos/Beauty-blender.png"
     },
     {
-        "nombre": "Delineador mac",
+        "nombre": "Delineador Ojos Mac",
         "precio": "13.000",
         "descripcion":"",
         "img":"assets/img/productos/Delineador-mac.png"
@@ -64,5 +64,125 @@
         "precio": "3.000",
         "descripcion":"",
         "img":"assets/img/productos/mascarilla-puntosnegros.png"
+    },
+    {
+        "nombre": "Base crema Engol",
+        "precio": "9.000",
+        "descripcion":"",
+        "img":"assets/img/productos/base-engol.png"
+    },
+    {
+        "nombre": "Brillo Magic",
+        "precio": "8.000",
+        "descripcion":"",
+        "img":"assets/img/productos/brillo-magic.png"
+    },
+    {
+        "nombre": "Kit Brochas x12",
+        "precio": "40.000",
+        "descripcion":"",
+        "img":"assets/img/productos/brochas-estuche.png"
+    },
+    {
+        "nombre": "Brochas x unidad",
+        "precio": "5.000",
+        "descripcion":"",
+        "img":"assets/img/productos/Brochas-unidad.png"
+    },
+    {
+        "nombre": "Cosmetiqueras",
+        "precio": "17.000",
+        "descripcion":"",
+        "img":"assets/img/productos/cosmetiquera.png"
+    },
+    {
+        "nombre": "Delineador para cejas",
+        "precio": "10.000",
+        "descripcion":"",
+        "img":"assets/img/productos/delineador-cejas-real.png"
+    },
+    {
+        "nombre": "Glitter Gel",
+        "precio": "8.000",
+        "descripcion":"",
+        "img":"assets/img/productos/glitter.png"
+    },
+    {
+        "nombre": "Humectante para Labios",
+        "precio": "6.000",
+        "descripcion":"",
+        "img":"assets/img/productos/humectante-labios.png"
+    },
+    {
+        "nombre": "Voluminizador de Labios",
+        "precio": "14.000",
+        "descripcion":"",
+        "img":"assets/img/productos/labial-3d.png"
+    },
+    {
+        "nombre": "Labial Barra Fenty",
+        "precio": "13.000",
+        "descripcion":"",
+        "img":"assets/img/productos/labial-barra-fenty.png"
+    },
+    {
+        "nombre": "Labial Matts Lips",
+        "precio": "13.000",
+        "descripcion":"",
+        "img":"assets/img/productos/labial-barra-matts.png"
+    },
+    {
+        "nombre": "Kylie Koko Lipsticks",
+        "precio": "6.000",
+        "descripcion":"",
+        "img":"assets/img/productos/labial-kylie-koko.png"
+    },
+    {
+        "nombre": "Locion para Cuerpo",
+        "precio": "8.000",
+        "descripcion":"",
+        "img":"assets/img/productos/locion-pink.png"
+    },
+    {
+        "nombre": "Pestañina RubyRose",
+        "precio": "14.000",
+        "descripcion":"",
+        "img":"assets/img/productos/pestañina-rubyrose.png"
+    },
+    {
+        "nombre": "Pestañona RubyRose Tropico",
+        "precio": "14.000",
+        "descripcion":"",
+        "img":"assets/img/productos/pestañona-tropico.png"
+    },
+    {
+        "nombre": "Primer para Rostro",
+        "precio": "18.000",
+        "descripcion":"",
+        "img":"assets/img/productos/primer.png"
+    },
+    {
+        "nombre": "Rubor Ushas",
+        "precio": "11.000",
+        "descripcion":"",
+        "img":"assets/img/productos/rubor-ushas.png"
+    },
+    {
+        "nombre": "Sombras Hudabomei x99",
+        "precio": "60.000",
+        "descripcion":"",
+        "img":"assets/img/productos/sombra-hudabomei.png"
+    },
+    {
+        "nombre": "Sombras Sirena x70",
+        "precio": "45.000",
+        "descripcion":"",
+        "img":"assets/img/productos/sombra-sirena.png"
+    },
+    {
+        "nombre": "Sombras Ushas x9",
+        "precio": "15.000",
+        "descripcion":"",
+        "img":"assets/img/productos/usha-eyes-shadow.png"
     }
 ]
